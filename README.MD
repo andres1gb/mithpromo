@@ -30,7 +30,7 @@ To initialize the `products` and `promos` collections in the database, two JSON 
 
 ## Improvements / TO-DO
 
--Capability to choose between different database drivers. Probably the Database interface should be updated, and the repositories are dependant on MongoDb. A query builder for each database would allow to implement the methods in the repository, but it exceeds the purpose of the project.
+- Capability to choose between different database drivers. Probably the Database interface should be updated, and the repositories are dependant on MongoDb. A query builder for each database would allow to implement the methods in the repository, but it exceeds the purpose of the project.
 
 - Tests could be improved to cover more cases, and for a better code coverage. They are more a sample than a exhaustive test suite. Depending on the use case, some benchmarks might be helpful as well.
 
