@@ -1,0 +1,17 @@
+[
+    {
+        "discount_percentage": 10,
+        "skus": [],
+        "categories": ["boots", "sandals"]
+    },
+    {
+        "discount_percentage": 15,
+        "skus": ["000001"],
+        "categories": ["boots"]
+    },
+    {
+        "discount_percentage": 20,
+        "skus": ["000001", "000004"],
+        "categories": []
+    }
+]

@@ -1,0 +1,12 @@
+[Api]
+Ip="0.0.0.0"
+Port=8080
+
+[Shop]
+DefaultCurrency="EUR"
+PromoStrategy="BestPromo"
+
+[Data]
+Driver="mongodb"
+Conn="mongodb://localhost:27017/mythpromo"
+DbName="mythpromo"
